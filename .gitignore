@@ -1,0 +1,26 @@
+# Node modules
+node_modules/
+
+__pycache__/
+
+#custom folder
+.old
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# Build output
+dist/
+build/
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+
+# Package lock
+package-lock.json
+yarn.lock
